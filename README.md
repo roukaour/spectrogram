@@ -1,5 +1,7 @@
 # Spectrogram
 
-Copyright © 2012-2014 Remy Oukaour <http://www.remyoukaour.com>.
+![A screenshot of the spectrogram program.](example.png)
 
-This program can render audio files as spectrograms and convert spectrograms back to audio.
+*A waveform and spectrogram of an MP3.*
+
+This program can display waveforms and spectrograms for audio files, as well as the reverse process, converting spectrogram images back into audio.
